@@ -1,0 +1,13 @@
+body {
+    background-color: dimgray;
+}
+#myCanvas {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -160px;
+    margin-left: -240px;
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 5px;
+}
